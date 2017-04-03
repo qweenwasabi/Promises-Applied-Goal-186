@@ -2,13 +2,13 @@
 ---
 authors:
 - "qweenwasabi"
-goal_id: 186
-team_size: 1
 team name: longing-toucan
-created_at: '2017-02-21T23:53:30Z'
+
+team_size: 1
+
 labels:
 - foundational
-published: true
+
 level: '1'
 redirect_from: "/goals/186"
 ---
