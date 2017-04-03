@@ -2,7 +2,6 @@
 ---
 - Authors: "qweenwasabi"
 - Team Name: longing-toucan
-redirect_from: "/goals/186"
 ---
 
 
