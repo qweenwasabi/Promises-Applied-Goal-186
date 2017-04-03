@@ -1,15 +1,7 @@
 # Promises-Applied-Goal-186
 ---
-authors:
-- "qweenwasabi"
-team name: longing-toucan
-
-team_size: 1
-
-labels:
-- foundational
-
-level: '1'
+- authors: "qweenwasabi"
+- team name: longing-toucan
 redirect_from: "/goals/186"
 ---
 
