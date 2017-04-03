@@ -1,7 +1,7 @@
 # Promises-Applied-Goal-186
 ---
-- authors: "qweenwasabi"
-- team name: longing-toucan
+- Authors: "qweenwasabi"
+- Team Name: longing-toucan
 redirect_from: "/goals/186"
 ---
 
