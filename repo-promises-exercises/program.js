@@ -1,12 +1,10 @@
 let timeOut = new Promise(function(resolve,reject){
-  let time = true;
-  if(time){
-    resolve('TIMED OUT!');
-  }else{
-    reject();
-  }
+  setTimeout(function () {
+    resolve("TIMED OUT!");
+   }, 300);
+
 });
 
 timeOut.then(function(fromResolve){
-  setTimeout(function(){ console.log(fromResolve); }, 300);
+   console.log(fromResolve);
 });
