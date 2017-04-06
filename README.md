@@ -35,25 +35,26 @@ Promises provide a simpler alternative for executing, composing, and managing as
 ## Specifications
 
 ### Day 1 & 2
-- [ ] Complete the [Promises Course][promises-course] on Udacity
-- [ ] Read [this](https://coligo.io/javascript-promises-plain-simple/) blog post
-- [ ] Read [this](https://scotch.io/tutorials/javascript-promises-for-dummies) blog post
+- [X] Complete the [Promises Course][promises-course] on Udacity
+- [X] Read [this](https://coligo.io/javascript-promises-plain-simple/) blog post
+- [X] Read [this](https://scotch.io/tutorials/javascript-promises-for-dummies) blog post
 
 ### Day 3 & 4
 - [ ] Exercises 1-13 in the [promise-it-wont-hurt-solutions][promise-it-wont-hurt-solutions] are complete and written to the appropriate file:
-  - [ ] `src/01-warmup.js`
-  - [ ] `src/02-fullfill-a-promise.js`
-  - [ ] `src/03-reject-a-promise.js`
-  - [ ] `src/04-to-reject-or-not-to-reject.js`
-  - [ ] `src/05-always-asynchronous.js`
-  - [ ] `src/06-shortcuts.js`
-  - [ ] `src/07-promise-after-promise.js`
-  - [ ] `src/08-values-and-promises.js`
-  - [ ] `src/09-throw-an-error.js`
-  - [ ] `src/10-an-important-file.js`
-  - [ ] `src/11-multiple-promises.js`
-  - [ ] `src/12-fetch-json.js`
-  - [ ] `src/13-do-some-work.js`
+[My promise-it-wont-hurt exercises repo][https://github.com/qweenwasabi/promises-exercises.git]
+  - [X] `src/01-warmup.js`
+  - [X] `src/02-fullfill-a-promise.js`
+  - [X] `src/03-reject-a-promise.js`
+  - [X] `src/04-to-reject-or-not-to-reject.js`
+  - [X] `src/05-always-asynchronous.js`
+  - [X] `src/06-shortcuts.js`
+  - [X] `src/07-promise-after-promise.js`
+  - [X] `src/08-values-and-promises.js`
+  - [X] `src/09-throw-an-error.js`
+  - [X] `src/10-an-important-file.js`
+  - [X] `src/11-multiple-promises.js`
+  - [X] `src/12-fetch-json.js`
+  - [X] `src/13-do-some-work.js`
 
 ### Day 5
 - [ ] Look at the [documentation](https://github.com/vitaly-t/pg-promise/wiki/Learn-by-Example) of the `pg-promise` repository
