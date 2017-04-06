@@ -41,9 +41,10 @@ Promises provide a simpler alternative for executing, composing, and managing as
 
 ### Day 3 & 4
 - [ ] Exercises 1-13 in the [promise-it-wont-hurt-solutions][promise-it-wont-hurt-solutions] are complete and written to the appropriate file:
+[romise-it-wont-hurt exercises][https://github.com/qweenwasabi/promises-exercises.git]
   - [X] `src/01-warmup.js`
   - [X] `src/02-fullfill-a-promise.js`
-  - [ ] `src/03-reject-a-promise.js`
+  - [X] `src/03-reject-a-promise.js`
   - [ ] `src/04-to-reject-or-not-to-reject.js`
   - [ ] `src/05-always-asynchronous.js`
   - [ ] `src/06-shortcuts.js`
