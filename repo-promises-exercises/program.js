@@ -1,10 +1,13 @@
-let timeOut = new Promise(function(resolve,reject){
-  setTimeout(function () {
-    resolve("TIMED OUT!");
-   }, 300);
+var promise = new Promise(function(fulfill,reject){
+    reject(new Error('REJECTED!'));
 
 });
 
-timeOut.then(function(fromResolve){
-   console.log(fromResolve);
-});
+function onReject (error) {
+    setTimeout(function(){
+  console.log(error.message)
+    },300);
+  }
+
+
+promise.then(null,onReject);
