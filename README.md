@@ -40,7 +40,7 @@ Promises provide a simpler alternative for executing, composing, and managing as
 - [X] Read [this](https://scotch.io/tutorials/javascript-promises-for-dummies) blog post
 
 ### Day 3 & 4
-- [ ] Exercises 1-13 in the [promise-it-wont-hurt-solutions][promise-it-wont-hurt-solutions] are complete and written to the appropriate file:
+- [x] Exercises 1-13 in the [promise-it-wont-hurt-solutions][promise-it-wont-hurt-solutions] are complete and written to the appropriate file:
 [My promise-it-wont-hurt exercises repo][https://github.com/qweenwasabi/promises-exercises.git]
   - [X] `src/01-warmup.js`
   - [X] `src/02-fullfill-a-promise.js`
