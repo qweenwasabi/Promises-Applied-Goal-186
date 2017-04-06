@@ -41,20 +41,20 @@ Promises provide a simpler alternative for executing, composing, and managing as
 
 ### Day 3 & 4
 - [ ] Exercises 1-13 in the [promise-it-wont-hurt-solutions][promise-it-wont-hurt-solutions] are complete and written to the appropriate file:
-[romise-it-wont-hurt exercises][https://github.com/qweenwasabi/promises-exercises.git]
+[My promise-it-wont-hurt exercises repo][https://github.com/qweenwasabi/promises-exercises.git]
   - [X] `src/01-warmup.js`
   - [X] `src/02-fullfill-a-promise.js`
   - [X] `src/03-reject-a-promise.js`
-  - [ ] `src/04-to-reject-or-not-to-reject.js`
-  - [ ] `src/05-always-asynchronous.js`
-  - [ ] `src/06-shortcuts.js`
-  - [ ] `src/07-promise-after-promise.js`
-  - [ ] `src/08-values-and-promises.js`
-  - [ ] `src/09-throw-an-error.js`
-  - [ ] `src/10-an-important-file.js`
-  - [ ] `src/11-multiple-promises.js`
-  - [ ] `src/12-fetch-json.js`
-  - [ ] `src/13-do-some-work.js`
+  - [X] `src/04-to-reject-or-not-to-reject.js`
+  - [X] `src/05-always-asynchronous.js`
+  - [X] `src/06-shortcuts.js`
+  - [X] `src/07-promise-after-promise.js`
+  - [X] `src/08-values-and-promises.js`
+  - [X] `src/09-throw-an-error.js`
+  - [X] `src/10-an-important-file.js`
+  - [X] `src/11-multiple-promises.js`
+  - [X] `src/12-fetch-json.js`
+  - [X] `src/13-do-some-work.js`
 
 ### Day 5
 - [ ] Look at the [documentation](https://github.com/vitaly-t/pg-promise/wiki/Learn-by-Example) of the `pg-promise` repository
